@@ -1,0 +1,18 @@
+<?xml version="0.9" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>AnyTitle Deleter</name>
+	<coder>tona, Red Squirrel, MrClick, giantpune, bushing</coder>
+	<version>1.1</version>
+	<release_date>201009260000</release_date>
+	<short_description>Delete titles and tickets</short_description> 
+	<long_description>
+This application deletes (almost) any title and its ticket from your Wii.
+The original AnyTitle Deleter was written by tona.
+Red Squirrel created the database to identify the titles not just by their ID but by their full name.
+MrClick added the database support to make deleting titles as comprehensive as possible.
+Use this application to add new or unknown titles to the database.
+giantpune added .app fix and tmd check
+	</long_description>
+	<no_ios_reload/>
+</app>
+

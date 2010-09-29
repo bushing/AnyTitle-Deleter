@@ -1,0 +1,772 @@
+﻿### AnyTitle Deleter MOD v2 by Red Squirrel
+### Note: The correct database sintax is: ID-NAME
+###	  ID must be of 3 chars (the fourth is its region, useless for our purpose!)
+###       Names must be shorter than 64 chars!
+
+###Hidden Channels###
+HAK-EULA Hidden Channel
+HAL-Region Select Hidden Channel
+DVD-DVDx Hidden Channel
+
+###System Channel###
+HAB-Shopping Channel
+HAC-Mii Channel
+HAF-Weather Channel
+HAF-Forecast Channel
+HAG-News Channel
+HAA-Photo Channel
+HAY-Photo Channel v1.1 
+HAX-Homebrew Channel
+
+###Downloaded Game Content###
+WFC-FFCC: My Life as a King - Extra Content
+
+###Games Channels###
+RFN-WiiFit Channel
+RMC-Mario Kart Channel
+
+###Downloaded Channels###
+HAD-Opera / Internet Channel
+HAJ-Everyone Votes Channel
+HAP-Check Mii Out Channel
+HAT-Nintendo Channel
+HAW-Metroid Prime 3 Preview
+HAZ-Photo Channel v1.1
+
+###WiiWare Channels###
+WPR-Art Style: Cubello
+WOB-Art Style: Orbient
+WB5-Block Breaker Deluxe
+WM8-Bomberman Blast
+W2C-Brain Challenge
+WCO-Cocoto Fishing Master
+WBW-Critter Round-Up
+WDF-Defend Your Castle
+WDM-Dr. Mario Online Rx
+WDP-Dr. Mario Online Rx: Friend Battle Demo
+WPP-Family Table Tennis
+WFC-Final Fantasy CC: My Life as a King
+WBE-Frat Party Games: Pong Toss
+WGY-Gyrostarr
+WHX-Helix
+WLW-LostWinds
+WA2-Magnetica Twist / Actionloop Twist
+WML-Major League Eating: The Game
+WR9-Megaman 9
+WB7-Midnight Pool
+WER-My Aquarium
+WBM-My Pokemon Ranch
+WKD-Pirates: The Key of Dreams
+WBS-Pop
+WPQ-Protothea
+WBV-SPOGS Racing
+WBQ-Star Soldier R
+WBX-Strong Bad's CGfAP, Ep.1: Homestar Ruiner
+WBY-Strong Bad's CGfAP, Ep.2: Strong Badia the Free
+WBZ-Strong Bad's CGfAP, Ep.3: Baddest of the Bands
+WTP-Tetris Party
+WIN-The Incredible Maze
+WTT-Toki Tori
+WB6-TV Show King
+WVC-V.I.P. Casino: Blackjack
+WB4-Wild West Guns
+WGO-World Of Goo
+
+###NeoGeo###
+EAD-Art of Fighting
+EAL-Art of Fighting 2
+EAH-Baseball Stars 2
+EAF-Blue's Journey
+EAK-Burning Fight
+EAN-Fatal Fury 2
+EAA-Fatal Fury: King of Fighters
+EAG-The King of Fighters '94
+EAO-King of the Monsters
+EAC-Magician Lord
+EAJ-Metal Slug
+EAR-Neo Turf Masters
+EAM-Ninja Combat
+EAP-Ninja Commando
+EAE-Samurai Shodown
+EAS-Samurai Shodown II
+EAI-Top Hunter: Roddy & Cathy
+EAB-World Heroes
+
+###TurboGrafx-16###
+PBW-Air Zonk
+PA7-Alien Crush
+PAH-Battle Lode Runner
+PB8-Blazing Lazers
+PA6-Bloody Wolf
+PAA-Bomberman '93
+PBI-Bonk III: Bonk's Big Adventure
+PAB-Bonk's Adventure
+PBH-Bonk's Revenge
+PBU-Bravoman
+PCR-Break In
+PC2-Chase H.Q.
+PBS-Chew Man Fu
+PBT-China Warrior
+QAC-Cho Aniki
+PB6-Cratermaze
+PCB-Dead Moon
+PB3-Devil's Crush
+PCS-Digital Champ Battle Boxing
+PBD-Double Dungeons
+PBA-Dragon Spirit
+PAK-Dragon's Curse
+PCH-Drop Off
+PAC-Dungeon Explorer
+QAF-The Dynastic Hero
+PAO-Final Soldier
+PAW-Galaga '90
+QAG-Gate of Thunder
+QAD-Gradius II: Gofer no Yabou
+PBZ-J.J. & Jeff
+PBM-Legend of Hero Tonma
+QAS-Lords of Thunder
+PAN-Military Madness
+QAU-Monster Lair
+PBE-Moto Roader
+PAM-Neutopia
+PB2-Neutopia II
+PAI-New Adventure Island
+PBN-Ninja Spirit
+PA8-Ordyne
+PCE-Power Golf
+PCO-Psychosis
+PAD-R-Type
+QAT-Riot Zone
+PBJ-Samurai Ghost
+PBX-Shockman
+PCA-Silent Debuggers
+PAL-Soldier Blade
+PA9-Splatterhouse
+QAW-Star Parodier
+QAA-Super Air Zonk: Rockabilly-Paradise
+PAE-Super Star Soldier
+PAF-Victory Run
+PAV-Vigilante
+PCV-World Class Baseball
+PB9-World Sports Competition
+QAB-Ys: Book I & II
+
+###Sega Genesis###
+MAX-Alex Kidd in the Enchanted Castle
+MBT-Alien Soldier
+MAY-Alien Storm
+MAA-Altered Beast
+MAR-The Beyond Oasis Story of Thor
+MAO-Bio-Hazard Battle
+MAL-Bonanza Bros.
+MAB-Columns
+MBW-Columns III: Revenge of Columns
+MAP-Comix Zone
+MBK-Crack Down
+MAC-Dr. Robotnik's Mean Bean Machine
+MBG-Dynamite Headdy
+MBX-Ecco Jr.
+MAD-Ecco the Dolphin
+MA8-Ecco: The Tides of Time
+MBL-ESWAT: City Under Siege
+MBZ-Eternal Champions
+MAN-Gain Ground
+MBJ-Ghouls 'n Ghosts
+MCA-Gley Lancer
+MAE-Golden Axe
+MBD-Golden Axe II
+MBO-Golden Axe III
+MAF-Gunstar Heroes
+MBC-Kid Chameleon
+MBI-Landstalker: The Treasures of King Nole
+MBY-Light Crusader
+MB7-Mega Turrican
+MB8-Phantasy Star II
+MCC-Phantasy Star III: Generations of Doom
+MCB-Powerball
+MA3-Puyo Puyo 2
+MAG-Ristar
+MBR-Rolling Thunder 2
+MBE-Shining Force
+MA7-Shining in the Darkness
+MBF-Shinobi III: Return of the Ninja Master
+MBU-Sonic 3D: Flickies' Island
+MAT-Sonic Spinball
+MAH-Sonic the Hedgehog
+MBB-Sonic the Hedgehog 2
+MBM-Sonic the Hedgehog 3
+MAI-Space Harrier II
+MCJ-Splatterhouse 2
+MAQ-Streets of Rage
+MA6-Streets of Rage 2
+MBQ-Streets of Rage 3
+MCE-Super Fantasy Zone
+MBP-Super Thunder Blade
+MAM-Sword of Vermilion
+MAJ-Toe Jam & Earl
+MAZ-Toe Jam & Earl in Panic on Funkotron
+MAS-Vectorman
+MAW-Virtua Fighter 2
+MAV-Wonder Boy in Monster World
+
+###Nintendo 64###
+NAO-1080Â° Snowboarding
+NAS-Cruis'n USA
+NAF-F-Zero X
+NAM-Kirby 64: The Crystal Shards
+NAB-Mario Kart 64
+NAE-Paper Mario 64
+NAN-Pokemon Puzzle League
+NAK-Pokemon Snap
+NAJ-Sin and Punishment
+NAD-Star Fox: Lylat Wars
+NAA-Super Mario 64
+NAC-The Legend of Zelda: Ocarina of Time
+NAI-Wave Race 64
+NAH-Yoshi's Story
+
+###Sega Master System###
+LAE-Alex Kidd in Miracle World
+LAB-Fantasy Zone
+LAG-Sonic the Hedgehog
+LAC-Wonder Boy
+
+###SNES###
+JA7-ActRaiser
+JBS-Axelay
+JBK-Breath of Fire II
+JAL-Contra III: The Alien Wars
+JBW-Cybernator
+JAE-Donkey Kong Country
+JBD-Donkey Kong Country 2: Diddy Kong's Quest
+JBP-Donkey Kong Country 3: Dixie's Double Trouble
+JCA-DoReMi Fantasy: Milon's DokiDoki Adventure
+JAC-F-Zero
+JA8-Final Fight
+JAM-Gradius III
+JB3-Harvest Moon
+JBQ-Kirby's Avalanche / Kirby's Ghost Trap
+JBC-Kirby's Dream Course
+JAZ-The Legend of the Mystical Ninja
+JAD-The Legend of Zelda: A Link to the Past
+JAB-Mario's Super Picross
+JBA-Metal Marines
+JBL-Pac-Attack
+JAW-Romance of the Three Kingdoms IV: Wall of Fire
+JAH-R-Type III: The Third Lightning
+JAF-SimCity
+JBI-Street Fighter II Turbo: Hyper Fighting
+JAJ-Street Fighter II: The World Warrior
+JAI-Super Castlevania IV
+JA4-Super Ghouls 'n Ghosts
+JCB-Super Mario RPG: Legend of the Seven Stars
+JAA-Super Mario World
+JAV-Super Metroid
+JBY-Super R-Type
+JBB-Super Street Fighter II: The New Challengers
+JBT-Super Turrican
+JBR-Vegas Stakes
+
+###NES###
+FCR-Adventure Island
+FBU-Adventures of Lolo
+FD6-Adventures of Lolo 2
+FCP-Balloon Fight
+FAL-Baseball
+FDF-Bases Loaded
+FEM-Bio Miracle Bokutte Upa
+FDP-Blades of Steel
+FC3-Bubble Bobble
+FBH-Castlevania
+FC8-Castlevania II: Simon's Quest
+FEI-City Connection
+FES-Clu Clu Land
+FED-Dig Dug
+FAA-Donkey Kong
+FEU-Donkey Kong 3
+FAB-Donkey Kong Jr.
+FA6-Donkey Kong Jr. Math
+FD2-Double Dragon
+FDQ-Double Dribble
+FAW-Elevator Action
+FBC-Excitebike
+FBR-Galaga
+FDG-Ghosts 'n Goblins
+FAR-Gradius
+FBE-Ice Climber
+FAJ-Ice Hockey
+FBD-Kid Icarus
+FCZ-King's Knight
+FA8-Kirby's Adventure
+FAT-The Legend of Kage
+FAK-The Legend of Zelda
+FBL-Lode Runner
+FB4-Lunar Pool
+FBB-Mach Rider
+FAF-Mario Bros.
+FCT-Mega Man
+FDN-Mega Man 2
+FBZ-Metroid
+FBJ-Mighty Bomb Jack
+FBS-Milon's Secret Castle
+FAP-NES Open Tournament Golf
+FC7-NES Play Action Football
+FBN-Ninja Gaiden
+FCQ-Ninja Gaiden II: The Dark Sword of Chaos
+FDL-Ninja Gaiden III: The Ancient Ship of Doom
+FAQ-Ninja JaJaMaru-kun
+FDO-Operation Wolf
+FAX-Pac-Man
+FAC-Pinball
+FBI-Punch-Out!! Featuring Mr. Dream
+FDT-Renegade
+FDV-River City Ransom Street Gangs
+FDR-Skate or Die!
+FEC-Sky Kid
+FAI-Soccer
+FAO-Solomon's Key
+FDA-Spelunker
+FCA-Star Soldier
+FC6-StarTropics
+FCS-Super C Probotector II: Return of the Evil Forces
+FAG-Super Mario Bros.
+FBY-Super Mario Bros. 2
+FCW-Super Mario Bros. 3
+FB2-Super Mario Bros.: The Lost Levels
+FAV-Tecmo Bowl
+FBK-Teenage Mutant Ninja Turtles
+FAH-Tennis
+FAN-Urban Champion
+FCU-Volleyball
+FAM-Wario's Woods
+FCV-Wrecking Crew
+FAS-Xevious
+FA7-Yoshi Mario & Yoshi
+FCY-Yoshi's Cookie
+FB5-Zanac
+FA9-Zelda II: The Adventure of Link
+
+###Commodore 64###
+C9Y-International Karate
+C97-California Games
+C9I-Cybernoid: The Fighting Machine
+C95-Impossible Mission
+C9R-International Karate +
+C9X-The Last Ninja
+C93-The Last Ninja 2: Back with a Vengeance
+C94-Nebulus
+C98-Paradroid
+C9M-Pitstop II
+C96-Summer Games II
+C99-Uridium
+C9Z-World Games
+
+###Disc Based Games###
+410-Wii BackupDisc
+R29-NPPL Championship Paintball 2009
+R2A-Ice Age 2: The Meltdown
+R2D-Dokapon Kingdom
+R2F-Freddi Fish/Marine Malice
+R2J-Taiko no Tatsujin Wii
+R2M-M&M's Adventure
+R2P-Super Swing Golf Season 2/SuperSwingGolf
+R2Q-Cooking Mama 2
+R2U-Let's TAP
+R3B-Samba de Amigo
+R3D-3D Pinball
+R3P-Speed Racer
+R3S-Spider Man: Web of Shadows
+R3T-Top Spin 3
+R3V-Deer Drive
+R3X-Sam and Max Season 1
+R42-Sims 2: Castaway
+R49-Donkey Kong Jungle Beat (GC Port)
+R4A-SimAnimals
+R4C-SimCity Creator
+R4P-The Sims 2: Pets, Animaux & Cie
+R4Q-Mario Strikers Charged
+R4Z-Fatal Frame IV: Mask of the Lunar Eclipse
+R55-Who Wants to be a Millionaire
+R5P-Harry Potter and the Order of the Phoenix
+R64-Wii Music
+R6B-De Blob
+R6V-King of Clubs
+R79-Mobile Suit Gundam: MS Sensen 0079
+R7C-Captain Rainbow
+R7E-Nights: Journey of Dreams
+R7F-Final Fantasy Fables: Chocobo's Dungeon
+R84-Harvest Moon: Tree of Tranquility
+R8G-G1 Jockey Wii 2008
+R8P-Super Paper Mario
+R8V-Wildlife vet : Animaux sauvages
+R9I-Pikmin
+R96-Klonoa: Door To Phantomile
+R9T-Tiger Woods PGA Tour 09 All-Play
+RB2-Ballon Pop
+RB4-Resident Evil 4: Wii Edition
+RB5-Brothers In Arms: Earned In Blood
+RB6-Bomberman
+RB7-Bully: Scholarship Edition
+RBA-Blazing Angels: Squadrons of WWII
+RBB-Bomberman Land
+RBH-Resident Evil Zero (GC Port)
+RBK-Boom Blox
+RBL-Bleach: Shattered Swords
+RBM-Bust-A-Move Bash!
+RBO-Boogie
+RBP-Brunswick Pro Bowling
+RBR-Blast Works
+RBS-Sengoku Basara 2: Heroes
+RBT-Sega Bass Fishing
+RBU-Resident Evil: The Umbrella Chronicles
+RBV-Barbie as The Island Princess
+RBW-Battalion Wars 2
+RBX-Bleach: Versus Crusade
+RBY-Barnyard / la ferme en folie
+RC3-Nyanko to Mahou no Boushi
+RC4-Crayon Shin-chan
+RC5-Osouji Sentai Clean Keeper
+RC8-Crash: Mind Over Mutant
+RCA-Cars
+RCB-Cabela's: Big Game Hunter 2008
+RCC-Cooking Mama: Cook Off
+RCD-Call of Duty 3
+RCF-Cosmic Family
+RCG-Carnival Games
+RCH-We Cheer
+RCI-CSI: Hard Evidence
+RCP-Kororinpa: Marble Mania
+RCQ-Choro Q Wii
+RCR-Cruis'n
+RCS-Chicken Shoot
+RCT-Counter Force
+RCU-Cabela's Legendary Adventures
+RCV-Far Cry: Vengeance
+RCY-Cheggers Party Quiz
+RD4-Dance Dance Revolution: Hottest Party 2
+RD6-Doubutsu Kisoutengai!
+RD9-Puzzle Collection Vol.1: Sudoku
+RDB-Dragonball Z: Budokai Tenkaichi 2
+RDD-Dance Dance Revolution: Hottest Party
+RDE-Zenkoku Dekotora Matsuri
+RDF-Shaun White Snowboarding: Road Trip
+RDG-Castlevania Judgment
+RDH-Destroy All Humans: Big Willy Unleashed
+RDI-The Dog Island
+RDJ-Death Jr. Root of Evil
+RDK-Donkey Kong: Barrel Blast / Jet Race
+RDM-Go! Go! Minon
+RDO-Dogz
+RDP-DORA saves the snow princess
+RDQ-Dragon Quest Swords
+RDR-Dewy's Adventure
+RDS-Dragonball Z: Budokai Tenkaichi 3
+RDT-Tamagotchi Party On
+RDU-Sugoro Chronicle
+RDV-Driver Parallel Lines
+RDW-Dragon Blade: Wrath Of Fire
+RDX-Deca Sporta / Deca Sports / Sports Island
+RDZ-Disaster: Day of Crisis
+RE4-Resident Evil (GC Port)
+RE8-Katekyoo Hitman Reborn! Kindan no Delta
+REA-Celebrity Sports Showdown
+RED-Red Steel
+REG-Emergency Mayhem
+REH-Emergency Heroes
+REK-Shape Boxing Wii de Enjoy Diet
+REL-Elebits / Eledees
+REM-Doraemon Wii Himitsu Douguou Ketteisen
+REQ-Go, Diego, Go!: Safari Rescue
+RET-Ennichi no Tatsujin
+REX-Excite Truck
+RF2-Fantastic 4: Rise of the Silver Surfer
+RF3-Ferrari Challenge: Trofeo Pirelli
+RF4-Super Fruit Fall 
+RF7-Tatsunoko Vs. Capcom: X Gene. of Heroes
+RF8-Fifa Soccer 08
+RF9-Fifa 09 All Play
+RFB-Endless Ocean
+RFE-Fire Emblem: Radiant Dawn
+RFJ-Family Jockey
+RFO-Spiderman: Friend or Foe
+RFQ-Face Breaker K.O. Party
+RFR-Furu Furu Park 
+RG2-Guilty Gear XX Accent Core
+RG5-Guinness Book Of Records: The Videogame
+RG6-Boogie SuperStar
+RGB-Harvey Birdman Attorney at Law
+RGB-The Bigs
+RGC-MiniCopter: Adventure Flight
+RGD-Target Terror
+RGE-World of Golden Eggs: Nori Nori Rhythm-kei
+RGF-The Godfather: Blackhand Edition
+RGH-Guitar Hero 3
+RGI-G1 jockey/GI jockey Wii
+RGK-Kidz Sports: Crazy Golf
+RGL-Geometry Wars: Galaxies
+RGM-Grim Adventures of Billy and Mandy
+RGN-Gintama: Banji Oku Chuubu
+RGP-Anime Slot Revolution: Gundam II
+RGS-Ghost Squad
+RGT-GT Pro Series
+RGV-Guitar Hero Aerosmith
+RGX-Game Party
+RGZ-Godzilla Unleashed
+RH2-Hell's Kitchen
+RH3-High School Musical 3 : DANCE!
+RH7-Jissen Pachi-Slot Pachinko
+RH8-Tomb Raider: Underworld
+RHA-Wii Play
+RHC-History Channel: Battle for the Pacific
+RHD-The House of the Dead 2 & 3 Return
+RHF-Happy Feet
+RHG-Agent Hugo: Lemon Twist
+RHI-Victorious Boxers Revolution
+RHK-Hataraku Hit
+RHM-Harvest Mooon: Magical Melody
+RHN-Mon cheval et moi/my horse and me
+RHP-Akko de Pon! Ikasama Hourouki
+RHQ-Hannah Montana: Spotlight World Tour
+RHR-Katekyoo Hitman Reborn! Dream Battle!
+RHS-Heatseeker
+RHT-Manhunt 2
+RHW-Hot Wheels: Beat That!
+RHX-Battle of the Bands
+RHZ-Petz:Horsez2/Alex. Lederman/ranch rescue
+RI8-Brothers in Arms: Road to Hill 30
+RIB-Igor: The Game
+RIH-The incredible Hulk
+RIN-Dead Rising: Chop Till You Drop
+RIP-One Piece: Unlimited Adventure
+RIR-Iron Man
+RJ2-007 : Quantum of Solace
+RJC-SCORE International Baja 1000
+RJE-Jenga
+RJG-Jinsei Game Wii
+RJM-Jumper
+RJS-Kawasaki Jet Ski
+RJW-Jawa *Mammoth to Himitsu no Ishi*
+RJZ-SNK Arcade Classics Volume 1
+RK2-Trauma Center: New Blood
+RK4-Kekkaishi: Kokubourou no Kage
+RKA-Ultimate Shooting Collection/Karous Wii
+RKD-Trauma Center: Second Opinion
+RKF-King of Fighters Collection: Orochi Saga
+RKJ-Zaidanhoujin Nippon Kanji
+RKK-Heavenly Guardian
+RKM-Mortal Kombat Armageddon
+RKN-Zaidanhoujin Nippon Kanji Nouryoku Kentei
+RKP-Kung Fu Panda
+RKW-Jigsaw Puzzle: Kyou no Wanko
+RKX-Rock Band
+RKZ-Lost in Blue: Shipwrecked
+RLA-Lara Croft Tomb Raider: Anniversary
+RLB-Lego Batman
+RLD-Legend of the Dragon
+RLF-Star Wars: The Clone Wars
+RLG-Lego Star Wars: The Complete Saga
+RLI-Lego Indiana Jones
+RLL-Go West! A Lucky Luke Adventure
+RLP-Little Pet Shop
+RLQ-Big League Sports
+RLR-Tomb Raider Anniversary
+RLS-Alien Syndrome
+RLT-London Taxi Rushour
+RLV-Avatar The Last Airbender: Legend of Aang
+RLW-Ratatouille
+RLX-Luxor: Pharaoh's Challenge
+RLY-Looney Tunes: Acme Arsenal
+RLZ-Defendin' de Penguin
+RM2-Medal of Honor: Heroes 2
+RM3-Metroid Prime 3: Corruption
+RM4-Monster 4x4: World Circuit
+RM5-Mummy III - Tomb of the Dragon Emperor
+RM6-Baroque
+RM7-Monster Lab
+RM8-Mario Party 8
+RM9-Mushroom Men: The Spore Wars
+RMA-Mario Tennis / Mario Power Tennis
+RMB-Mario Super Sluggers
+RMC-Mario Kart Wii
+RMD-Madden 07
+RMG-Super Mario Galaxy
+RMJ-Mah-jongg Rally Wii
+RML-Metal Slug Anthology
+RMM-Mercury Meltdown Revolution
+RMN-My Pet Hotel
+RMO-Monster Jam
+RMR-Disney's Meet the Robinsons
+RMT-Momotarou Densetsu 16
+RMU-Marvel: Ultimate Alliance
+RMV-Medal of Honor: Vanguard
+RMX-MX vs ATV: Untamed
+RMZ-Myth Makers: Trixie in Toyland
+RN2-Namco Museum Remix
+RN3-Nicktoons: Attack of the Toybots
+RN9-Escape From Bug Island
+RNA-NCAA Football 09 All-Play
+RNC-SNK Arcade Classics: Vol. 1
+RND-Nodame Cantabile: Dream Orchestra
+RNE-Naruto Shippuuden: Ninja Taisen EX 3
+RNG-Negima!? Neo Pactio Fight!!
+RNH-No More Heroes
+RNM-Ninjabread Man
+RNN-Chronicles of Narnia: Prince Caspian
+RNP-Need for Speed: Pro Street
+RNR-Nitro Bike
+RNS-Need for Speed: Carbon
+RNV-Anubis II
+RNW-Minna de Asobou de! Namco Carnival
+RNX-Naruto: Clash of Ninja Revolution
+RNY-Naruto: Clash of Ninja Revolution 2
+RNZ-Ninja Reflex
+RO2-Ford Racing: Off Road
+RO8-Spyro DOTD
+ROB-Obscure: The Aftermath
+ROD-WarioWare: Smooth Moves
+ROF-Offroad Extreme!: Special Edition 
+ROG-Tak and the Guardians of Gross
+ROH-Happy Dance Collection
+RON-Oneechanbara Revolution 
+ROP-Open Season
+ROU-One Piece Unlimited Cruise: Ep. 1
+ROW-Okami
+RP2-Cerebrum
+RP3-Pro Golfer Saru
+RP9-Space Chimps/chimpanzes de l'espace
+RPB-Pokemon Battle Revolution
+RPF-Pitfall: The Lost Expedition
+RPG-Rampage: Total Destruction
+RPI-Pimp My Ride
+RPK-World Series of Poker: Tour. of Champions
+RPL-Rapala: Tournament Fishing
+RPO-Opoona
+RPP-Prince of Persia: Rival Swords
+RPS-Disney Princess: Enchanted Journey
+RPV-Purr Pals
+RPX-EA Playground
+RPY-Super Swing Golf/Pangya Golf with Style
+RQ2-Crazy Climber Wii
+RQ4-SpongeBob SquarePants: Krusty Krab
+DQA-Aquarius Baseball
+RQF-SafeCracker
+RQJ-Crash of the Titans
+RQK-Circus Games
+RQP-Cabela's: Trophy Bucks
+RQS-Gottlieb Pinball Classics
+RQT-Agatha Christie: And Then There Were None
+RQW-Puzzle Quest: Challenge of the Warlords
+RQX-Asterix At The Olympic Games
+RR2-Rig Racer 2
+RR9-WWE SmackDown Vs. Raw 09
+RRA-Rock 'n' Roll Adventures
+RRB-Rayman: Raving Rabbids
+RRE-Rock Band Track Pack Vol.1
+RRK-Alone In The Dark
+RRP-The Price Is Right
+RRS-Disney's Meet the Robinsons
+RRX-Monster Trux: Arenas
+RS3-Spiderman 3
+RS4-Castle of Shikigami III
+RS5-Samurai Warriors: Katana
+RS7-Eyeshield 21: Field no Saikyou Senshi
+RS8-Shanghai
+RS9-Sonic Riders: Zero Gravity
+RSA-Golden Compass, The
+RSB-Super Smash Bros: Brawl
+RSC-Scarface: The World is Yours
+RSD-SD Gundam: Scad Hammers
+RSE-Soul Eater: Monotone Princess
+RSH-MySims Kingdom
+RSI-MySims
+RSK-Shrek III/Shrek le Troisieme
+RSL-Soul Calibur: Legends
+RSM-Super Monkey Ball Banana Blitz
+RSN-the Simpsons Game
+RSP-Wii Sports
+RSQ-Family Ski
+RSR-Sonic & the Secret Rings
+RST-Star Wars: The Force Unleashed
+RSV-Sonic Unleashed
+RSX-SSX: Blur
+RSZ-Yukinko Daisenpuu
+RT3-Rockstar Games Presents: Table Tennis
+RT4-Tales of Symphonia: Dawn of the New World
+RT5-Sega Superstars Tennis
+RT7-Tiger Woods PGA Tour 07
+RT8-Tiger Woods PGA Tour 08
+RTB-Rapala Fishing
+RTC-Splinter Cell: Double Agent
+RTD-The Monkey King/Shin Chuuka Taisen
+RTF-Transformers: The Game
+RTH-Tony Hawk's: Downhill Jam
+RTJ-Star Trek: Conquest
+RTL-Mezase! Tsuri Master Sekai ni Challenge Hen
+RTM-TMNT Les Tortues Ninja
+RTN-Tenchu 4: Shadow Assassins
+RTQ-Monster Trux Offroad
+RTR-Fishing Master
+RTT-Tamagotchi: Party On!
+RTU-Secret Files: Tunguska
+RTV-Thrillville: Off the Rails/Parc en folie
+RTW-TNA Impact Total Nonstop Action Wrestling
+RTY-Wii Chess
+RTZ-Zack & Wiki: Quest for Barbaros' Treasure
+RUA-Monster Jam
+RUC-RTL Winter Sports 08 : Ultimate Challenge
+RUF-Rune Factory Frontier
+RUG-Goosebumps HorrorLand
+RUL-Ultimate Band
+RUN-New Unou Kids Wii
+RUP-Winning Post 7 MAXIMUM 2008
+RUU-Animal Crossing: City Folk/go to the city
+RV9-Avatar The Last Airbender: Inferno
+RVI-Bionicle Heroes
+RVR-Rebel Raiders Operation Nighthawk
+RVV-Big beach sports
+RVY-Call of Duty: World At War
+RW3-Pirates of the Caribbean: At World's End
+RWA-Wall-E
+RWC-Pinball Hall of Fame: Williams Collection
+RWD-Wild earth : African safari
+RWE-Pro evolution soccer 2008
+RWG-We Love Golf
+RWI-Wing Island
+RWK-Cooking Mama: World Kitchen
+RWL-Wario Land: Shake It!
+RWM-Worms: A Space Oddity
+RWO-Monopoly
+RWS-Mario & Sonic at the Olympic Games
+RWT-Ben 10 Alien Force
+RWW-WWE SmackDown Vs. Raw 08
+RWZ-Wonderworld Amusment Park
+RX9-Need for Speed: Undercover
+RXC-Dave Mirra BMX Challenge
+RXD-Disney Think Fast/Haya Oshi Quiz
+RXE-Major Wii Perfect Closer
+RXJ-Jinsei Game EX Wii
+RXR-The Tale of Despereaux
+RXU-Surf's Up / les rois de la glisse
+RXZ-Cabela's Dangerous Hunts 2009
+RY2-Rayman: Raving Rabbids 2
+RY3-Rayman Raving Rabbids: Tv Party
+RYA-Yattaman Wii Bikkuridokkiri
+RYG-Argus no Senshi Muscle Impact
+RYK-Family Ski: We Ski & Snowboard
+RYP-PangYa! Golf with Style
+RYV-Illvelo Wii
+RYW-Big Brain Academy: Wii Degree
+RZ2-SimpleSeries1 The Minna de Kart Race
+RZ3-SIMPLESeries2 Minna de Bass Tsuri Taikai
+RZ4-SIMPLESeries3 Ason de Wakaru/Party Kanji
+RZ5-SIMPLESeries4 DokoDemoAsoberu Shooting Action
+RZ6-SIMPLESeries5 Block Kuzushi 
+RZ7-SimpleSeries6 Wai Wai Combat
+RZ8-Family Party : The Table Game
+RZ9-Family Party : 30 greats games
+RZD-Legend of Zelda: Twilight Princess
+RZH-Zoo Hospital
+RZP-Link's Crossbow Training
+SXA-Guitar Hero World Tour
+### this is the maximum size for names of games#
+### reduce your window to be sure of the length#

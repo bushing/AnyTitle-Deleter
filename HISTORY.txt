@@ -1,0 +1,41 @@
+History for AnyTitle Deleter
+----------------------------
+===1.1===
+* Switched to using AHBPROT to patch ISFS in memory to delete titles at the FS layer
+* Simplified interface
+* Added fakesign detection
+* Removed a bunch of dead code
+
+===1.0 v4===
+* checks the first .app file instead of just 00000000.app to allow more names to be found.
+* for 0x10000 type TID, it checks the data and content folders.  if there is 0 items in
+  the data and only a title.tmd in the content, it puts a TMD! by the name (if the IOS 
+  will let it).
+
+
+===1.0 v3===
+* title names can now be read from 00000000.app files found in many (but not all) channels
+* the Wii is brought into "super user" mode when reading 00000000.app files
+* likewise "system menu" mode is used to read banner.bin files
+* updated the ES identification to the one from tona's AnyRegion Changer
+* removed the "Directory" naming mode since it was buggy and quite useless
+* minor corrections in menu code
+
+===1.0 v2===
+* adding title names from the banner.bin to the external database
+* title names not taken from the database are marked now
+* an enhanced file information screen is displayed before deleting a title
+* made some space so more titles can be displayed on screen at once
+* internal code cleanup
+* when compiling a constant in main.c can be set to hard reboot instead of return to loader
+* another constant can disable brick protection on recompile
+* warning messages are displayed throughout the program when brick protection is off
+
+===1.0 v1===
+* added displaying of title names from a provided database file (by Red Squirrel)
+* added displaying of title names taken from the title's banner.bin
+* cleaned up the menu
+* added support for different levels of info being displayed in the title list
+* added some control tweaks
+
+* Based on the original AnyTitle Deleter code by tona (C) 2008
